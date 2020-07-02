@@ -1,0 +1,11 @@
+html,body
+        {
+            background: #FFFFFF;
+            padding: 100px;
+            margin: 100px;
+        }
+.inicio_HolaMundo
+    {
+        font-size: 28px;
+        font-family: Helvetica Neue;
+    }
