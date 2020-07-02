@@ -4,7 +4,12 @@ html,body
             padding: 100px;
             margin: 100px;
         }
-.inicio_HolaMundo
+.inicio_HolaMundo_class                    /* Se utiliza "." cuando utilizadmos id*/
+    {
+        font-size: 28px;
+        font-family: Helvetica Neue;
+    }
+#inicio_HolaMundo_id                        /* Se utiliza "#" cuando utilizadmos id*/
     {
         font-size: 28px;
         font-family: Helvetica Neue;

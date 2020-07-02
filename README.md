@@ -1,5 +1,5 @@
 # Plantilla_Front_2020
-    - Plantilla para proyectos de FrontEnd = HMLT5 + CSS3 + SASS + JAVASCRIPT
+   - Plantilla para proyectos de FrontEnd = HMLT5 + CSS3 + SASS + JAVASCRIPT
 ## Desarrollo de la Práctica 
  1. Descargando Plantilla de Fronted.
  2. Configurando-Git-y-Github.
