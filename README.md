@@ -72,7 +72,7 @@
     - Hacer un screenshot de código. Captura como imagen de manera perfecta el código.
         
  13. LIVE SHARE 
-    - Desarrollo colaborativo tiempo real
+    -  Desarrollo colaborativo tiempo real
  14. GITLENS
     - Ayuda a ver el historial y evolución del código. Quien, como y que cambio en el código.
     - En rojo lo que se quito. En verde lo que se cambio.
