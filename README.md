@@ -73,7 +73,7 @@
         
  13. LIVE SHARE 
     - Desarrollo colaborativo tiempo real
- 14. GITLENS 
+ 14. GITLENS
     - Ayuda a ver el historial y evolución del código. Quien, como y que cambio en el código.
     - En rojo lo que se quito. En verde lo que se cambio.
     
