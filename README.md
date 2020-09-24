@@ -46,8 +46,8 @@
     - Ordena o Formatea el código de forma automática. 
 
  5.  ESLINT
-    - Busca errores
-    - Ahora tambien se utiliza como formateo (segun descripción).       
+     - Busca errores
+     - Ahora tambien se utiliza como formateo (segun descripción).       
         
  6. EDITORCONFIG
     - Interactua con VS Code.
@@ -69,14 +69,14 @@
         - Preprocesador
 
  12. POLACODE
-    - Hacer un screenshot de código. Captura como imagen de manera perfecta el código.
+     - Hacer un screenshot de código. Captura como imagen de manera perfecta el código.
         
- 13. LIVE SHARE 
-    -  Desarrollo colaborativo tiempo real
+ 13. LIVE SHARE
+     - Desarrollo colaborativo tiempo real
  14. GITLENS
-    - Ayuda a ver el historial y evolución del código. Quien, como y que cambio en el código.
-    - En rojo lo que se quito. En verde lo que se cambio.
+     - Ayuda a ver el historial y evolución del código. Quien, como y que cambio en el código.
+     - En rojo lo que se quito. En verde lo que se cambio.
     
  15. SVG
-    - Extensión que te ayuda a crear gráficos. 
+      - Extensión que te ayuda a crear gráficos. 
 
