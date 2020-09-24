@@ -29,3 +29,54 @@
  5. **git push -u origin master**
     - Enviamos al respositorio o hacemos un push al respositorio  
 
+
+
+### Extensiones (Plugins) mas comunes - Visual Studio Code 
+
+ 1. SPANHIS LANGUAGE PACK
+    -Para cambiar el idioma del entorno de trabajo de Visual Studio en Español
+
+ 2. LIVE SERVER
+    -Go Live. Para crear un pequeño servidor Local para ver el como queda el código final.
+    
+ 3. CODE RUNNER
+    -Para ejecutar y verificar una pequeña porción de código. 
+        
+ 4. PRETTIER - CODE FORMATTER
+    -Ordena o Formatea el código de forma automática. 
+
+ 5.  ESLINT
+    -Busca errores.
+    -Ahora tambien se utiliza como formateo (segun descripción).       
+        
+ 6. EDITORCONFIG
+    -Interactua con VS Code. 
+    -Puede modificar la visualización final de un formateo.  
+
+ 7. BRACKET PAIR COLORIZER 2
+    -Cambiar de color el parentesis 
+    
+ 8. TABNINE
+    -Escribe código básicemente él solo. 
+
+ 1. VSCODE-ICONS
+    -Estilo de iconos.
+    
+ 1. INDENT-RAINBOW
+        - Para indentar código (mandar a la derecha las líneas hijas). Colores distintos para identificarlos.
+
+ 1. SASS
+        - Preprocesador
+
+ 1. POLACODE
+        - Hacer un screenshot de código. Captura como imagen de manera perfecta el código.
+        
+ 1. LIVE SHARE 
+        - Desarrollo colaborativo tiempo real
+ 1. GITLENS 
+        - Ayuda a ver el historial y evolución del código. Quien, como y que cambio en el código.
+        - En rojo lo que se quito. En verde lo que se cambio.
+    
+ 1. SVG
+        - Extensión que te ayuda a crear gráficos. 
+
